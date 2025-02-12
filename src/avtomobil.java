@@ -11,18 +11,22 @@ public class avtomobil {
 
 
         }
-        carAvto auto1=new carAvto();
-        auto1.ad="Nazlifan";
-        auto1.model="Nax";
-        auto1.il=2020;
-        auto1.qapi=5;
-        auto1.reng="ag";
-        auto1.say=10;
+//        carAvto auto1=new carAvto();
+//        auto1.ad="Nazlifan";
+//        auto1.model="Nax";
+//        auto1.il=2020;
+//        auto1.qapi=5;
+//        auto1.reng="ag";
+//        auto1.say=10;
+//        System.out.println(auto1.ad);
+//        System.out.println(auto1.model);
+//        System.out.println(auto1.il);
+//        System.out.println(auto1.qapi);
+//        System.out.println(auto1.reng);
+//        System.out.println(auto1.say);
 
 
-        System.out.println(auto1.ad);
-        System.out.println(auto1.model);
-//
+
 //        carAvto auto2=new carAvto();
 //        auto2.ad="hyundai";
 //        auto2.model="Sonata";
@@ -50,6 +54,20 @@ public class avtomobil {
 //        System.out.println(auto3.qapi);
 //        System.out.println(auto3.reng);
 //        System.out.println(auto3.say);
+
+//        carAvto auto4=new carAvto();
+//        auto4.ad="Mercedes";
+//        auto4.model="CLK";
+//        auto4.il=2024;
+//        auto4.qapi=3;
+//        auto4.reng="Black";
+//        auto4.say=2;
+//        System.out.println(auto4.ad);
+//        System.out.println(auto4.model);
+//        System.out.println(auto4.il);
+//        System.out.println(auto4.qapi);
+//        System.out.println(auto4.reng);
+//        System.out.println(auto4.say);
 
 
     }
