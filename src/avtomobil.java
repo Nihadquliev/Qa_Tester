@@ -15,8 +15,9 @@ public class avtomobil {
         auto1.ad="Nazlifan";
         auto1.model="Nax";
         auto1.il=2020;
-
+        auto1.qapi=5;
         auto1.reng="ag";
+        auto1.say=10;
 
 
         System.out.println(auto1.ad);
